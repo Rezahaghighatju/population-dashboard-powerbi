@@ -1,7 +1,7 @@
 ## Project Overview
 # Global Population Dashboard in Power BI
 
-![Visualisation preview](Visualisation preview.png)
+![Visualisation preview](./Visualisation%20preview.png)
 
 ## Files Included
 
