@@ -1,4 +1,10 @@
 ## Project Overview
+# Global Population Dashboard in Power BI
+
+![Dashboard Preview](dashboard_preview.png)
+## Dashboard Preview
+
+The dashboard provides interactive analysis of population trends, urbanisation patterns, growth rates and demographic indicators across countries and regions between 1960 and 2050.
 
 This project presents an interactive Power BI dashboard designed to analyse global population trends and demographic indicators across multiple countries and regions.
 
